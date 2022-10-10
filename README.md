@@ -1,4 +1,4 @@
-wafer_main
+Wafer Fault Detection 
 ==============================
 
 its a wafer project
